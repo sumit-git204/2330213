@@ -8,7 +8,7 @@ This document describes the architecture of the notification system backend. The
 
 ## Architecture
 
-The system follows a **Clean Architecture / Layered Architecture** pattern:
+The system follows a **Clean Architecture / Layered Architecture** pattern given as below:
 
 ```
 HTTP Request
