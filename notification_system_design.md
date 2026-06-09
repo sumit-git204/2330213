@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document describes the architecture of the notification system backend. The system is responsible for creating, storing, and delivering notifications to users — triggered either by API calls or scheduled background jobs (e.g. vehicle maintenance alerts).
+This document describes the architecture of  notification system backend. The system is responsible for creating, storing, and delivering notifications to users — triggered either by API calls or scheduled background jobs (e.g. vehicle maintenance alerts).
 
 ---
 
