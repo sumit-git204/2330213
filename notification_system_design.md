@@ -119,4 +119,4 @@ A background job service that checks vehicles due for maintenance and triggers n
 - JWT authentication
 - Email/SMS delivery
 - Pagination on GET endpoints
-- Unit and integration tests
+- Unit integration tests
